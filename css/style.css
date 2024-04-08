@@ -1,0 +1,133 @@
+/*
+
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+  }
+  
+  .header{
+  
+    margin-left: 300px;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+  
+    padding: 1rem;
+  
+  }
+.container{
+    background-image: url(./photos/disback1.png);
+    background-size: cover;
+}
+.logoname{
+    display: flex;
+    font-size: 15px;
+    width: 10rem;
+  }
+  #discordlogo{
+    margin-right: 0.28rem;
+  }
+  .nav-safety{
+    font-size: 1rem;
+   }
+   .header a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 1.5rem;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  .button{
+    border-radius: 20px;
+    margin-right: 300px;
+    padding: 9px;
+  
+  }
+  .button:hover {
+    color: blue;
+  }
+  .button{
+    border-radius: 20px;
+    margin-right: 300px;
+    padding: 9px;
+  
+  }
+  .heading {
+    font-size: 60px;
+    text-align: center;
+   font-weight: 1200;
+    font-family: sans-serif typeface;
+  }
+  pre {
+    font-family: Arial, sans-serif;
+    font-size: 17px;
+  }
+  .content {
+    max-width: 800px;
+    margin: 3.5rem auto;
+    padding: 1rem;
+    color: #fff;
+  }
+  .downloadlinks {
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+
+    padding: 30px;
+    margin: 18px;
+    
+  }
+  .downloadlinks a:hover{
+    text-decoration: none;
+    
+
+  }
+  
+  a{
+    text-decoration: none;
+  }
+  .down {
+    width:300px;
+    height:40px;
+    background-color: #fff;
+    text-align: center;
+    line-height: 36px;
+    border-radius: 50px;
+    color:black;
+    }
+    .down a{
+        color: black;
+        font-size: 18px;
+        }
+    .down a:hover{
+        color: blue;
+        
+        }
+        #fa-download{
+            margin-right: 5px;
+          }
+          #fa-download:hover{
+          color:blue;
+          
+          }
+          .open {
+            width:300px;
+            height:40px;
+            background-color:black;
+            color: white;
+            text-align: center;
+            line-height: 36px;
+            border-radius: 50px;
+            }
+            .open a{
+                color:white;
+                font-size: 18px;
+                }
+                .open:hover{
+                    background-color: rgb(37, 29, 29);
+                    }
+*/
